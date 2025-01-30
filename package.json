@@ -1,0 +1,20 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devraj0425/comp2156.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devraj0425/comp2156/issues"
+  },
+  "homepage": "https://github.com/Devraj0425/comp2156#readme"
+}
